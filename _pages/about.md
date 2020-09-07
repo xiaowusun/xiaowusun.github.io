@@ -21,5 +21,9 @@ Publications
 James Ferlez, <b>Xiaowu Sun^*</b>, and Yasser Shoukry, \\
 IEEE Conference on Decision and Control (CDC), 2020.
 
+- [<b>Formal Verification of Neural Network Controlled Autonomous Systems,</b>](https://dl.acm.org/doi/10.1145/3302504.3311802) \\
+<b>Xiaowu Sun</b>, Haitham Khder, and Yasser Shoukry, \\
+ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 2019
+
 
 
