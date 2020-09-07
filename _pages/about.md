@@ -39,5 +39,3 @@ Daniel Gerzhoy, <b>Xiaowu Sun</b>, Michael Zuzak, and Donald Yeung,
 <br>
 ACM Transactions on Architecture and Code Optimization (TACO), 2019.
 
-v2
-
