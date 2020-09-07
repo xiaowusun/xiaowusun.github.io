@@ -29,7 +29,7 @@ ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 
 
 - [**DoS-Resilient Multi-Robot Temporal Logic Motion Planning,**](https://ieeexplore.ieee.org/document/8794477) 
 <br>
-<b>Xiaowu Sun\*</b>,&nbsp;Rohitkrishna Nambiar\*,&nbsp;Matthew Melhorn,&nbsp;Yasser Shoukry,&nbsp;and&nbsp;Pierluigi&nbsp;Nuzzo,
+<b>Xiaowu&nbsp;Sun\*</b>,&nbsp;Rohitkrishna&nbsp;Nambiar\*,&nbsp;Matthew&nbsp;Melhorn,&nbsp;Yasser&nbsp;Shoukry,&nbsp;and&nbsp;Pierluigi&nbsp;Nuzzo,
 <br>
 IEEE International Conference on Robotics and Automation (ICRA), 2019.
 
@@ -39,4 +39,4 @@ Daniel Gerzhoy, <b>Xiaowu Sun</b>, Michael Zuzak, and Donald Yeung,
 <br>
 ACM Transactions on Architecture and Code Optimization (TACO), 2019.
 
-vv
+v1
