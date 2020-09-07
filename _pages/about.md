@@ -25,7 +25,7 @@ IEEE Conference on Decision and Control (CDC), 2020.
 <br>
 <b>Xiaowu Sun</b>, Haitham Khder, and Yasser Shoukry, 
 <br>
-ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 2019. 
+ACM&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Hybrid&nbsp;Systems:&nbsp;Computation&nbsp;and&nbsp;Control&nbsp;(HSCC),&nbsp;2019. 
 
 - [**DoS-Resilient Multi-Robot Temporal Logic Motion Planning,**](https://ieeexplore.ieee.org/document/8794477) 
 <br>
@@ -38,5 +38,3 @@ IEEE International Conference on Robotics and Automation (ICRA), 2019.
 Daniel Gerzhoy, <b>Xiaowu Sun</b>, Michael Zuzak, and Donald Yeung, 
 <br>
 ACM Transactions on Architecture and Code Optimization (TACO), 2019.
-
-v1
