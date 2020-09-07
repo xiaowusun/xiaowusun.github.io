@@ -12,7 +12,7 @@ Later
 
 Interests
 =====
-Later
+Robotics, Formal Methods, Machine Learning
 
 Publications
 ======
