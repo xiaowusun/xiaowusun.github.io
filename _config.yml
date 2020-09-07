@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xiaowu Sun"
   avatar           : "Xiaowu_Sun.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student"
   location         : #"Location"
-  employer         :
+  employer         : "UC Irvine"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "xiaowus@uci.edu"
