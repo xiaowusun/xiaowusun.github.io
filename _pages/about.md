@@ -25,5 +25,9 @@ IEEE Conference on Decision and Control (CDC), 2020.
 <b>Xiaowu Sun</b>, Haitham Khder, and Yasser Shoukry, \\
 ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 2019.
 
+- [**DoS-Resilient Multi-Robot Temporal Logic Motion Planning,**](https://ieeexplore.ieee.org/document/8794477) \\
+<b>Xiaowu Sun*</b>, Rohitkrishna Nambiar*, Matthew Melhorn, Yasser Shoukry, and Pierluigi Nuzzo,
+IEEE International Conference on Robotics and Automation (ICRA), 2019.
+
 
 
