@@ -29,5 +29,9 @@ ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 
 <b>Xiaowu Sun*</b>, Rohitkrishna Nambiar*, Matthew Melhorn, Yasser Shoukry, and Pierluigi Nuzzo,
 IEEE International Conference on Robotics and Automation (ICRA), 2019.
 
+- [**Nested MIMD-SIMD Parallelization for Heterogeneous Microprocessors,**](https://dl.acm.org/doi/abs/10.1145/3368304)\\
+Daniel Gerzhoy, Xiaowu Sun, Michael Zuzak, and Donald Yeung, \\
+ACM Transactions on Architecture and Code Optimization (TACO), 2019.
+
 
 
