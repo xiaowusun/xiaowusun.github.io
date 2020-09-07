@@ -18,9 +18,7 @@ Robotics, Formal Methods, Machine Learning
 Publications
 ======
 - [**Two-Level Lattice Neural Network Architectures for Control of Nonlinear Systems,**](https://arxiv.org/abs/2004.09628) 
-<br>  
-James Ferlez*, <b>Xiaowu Sun*</b>, and Yasser Shoukry, 
-<br>  
+James Ferlez\*, <b>Xiaowu Sun\*</b>, and Yasser Shoukry, 
 IEEE Conference on Decision and Control (CDC), 2020.
 
 - [**Formal Verification of Neural Network Controlled Autonomous Systems,**](https://dl.acm.org/doi/10.1145/3302504.3311802) 
@@ -31,7 +29,7 @@ ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 
 
 - [**DoS-Resilient Multi-Robot Temporal Logic Motion Planning,**](https://ieeexplore.ieee.org/document/8794477) 
 <br>
-<b>Xiaowu Sun\*</b>, Rohitkrishna Nambiar*, Matthew Melhorn, Yasser Shoukry, and Pierluigi Nuzzo,
+<b>Xiaowu Sun\*</b>, Rohitkrishna Nambiar\*, Matthew Melhorn, Yasser Shoukry, and Pierluigi Nuzzo,
 <br>
 IEEE International Conference on Robotics and Automation (ICRA), 2019.
 
