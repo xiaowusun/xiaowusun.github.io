@@ -18,20 +18,20 @@ Robotics, Formal Methods, Machine Learning
 Publications
 ======
 - [**Two-Level Lattice Neural Network Architectures for Control of Nonlinear Systems,**](https://arxiv.org/abs/2004.09628) \\
-James Ferlez*, <b>Xiaowu Sun*</b>, and Yasser Shoukry, \\
-IEEE Conference on Decision and Control (CDC), 2020.
+  James Ferlez*, <b>Xiaowu Sun*</b>, and Yasser Shoukry, \\
+  IEEE Conference on Decision and Control (CDC), 2020.
 
 - [**Formal Verification of Neural Network Controlled Autonomous Systems,**](https://dl.acm.org/doi/10.1145/3302504.3311802) \\
-<b>Xiaowu Sun</b>, Haitham Khder, and Yasser Shoukry, 
-ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 2019. 
+  <b>Xiaowu Sun</b>, Haitham Khder, and Yasser Shoukry, \\
+  ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 2019. 
 
 - [**DoS-Resilient Multi-Robot Temporal Logic Motion Planning,**](https://ieeexplore.ieee.org/document/8794477) \\
-<b>Xiaowu Sun*</b>, Rohitkrishna Nambiar*, Matthew Melhorn, Yasser Shoukry, and Pierluigi Nuzzo, 
-IEEE International Conference on Robotics and Automation (ICRA), 2019.
+  <b>Xiaowu Sun*</b>, Rohitkrishna Nambiar*, Matthew Melhorn, Yasser Shoukry, and Pierluigi Nuzzo, \\
+  IEEE International Conference on Robotics and Automation (ICRA), 2019.
 
 - [**Nested MIMD-SIMD Parallelization for Heterogeneous Microprocessors,**](https://dl.acm.org/doi/abs/10.1145/3368304)\\
-Daniel Gerzhoy, <b>Xiaowu Sun</b>, Michael Zuzak, and Donald Yeung, \\
-ACM Transactions on Architecture and Code Optimization (TACO), 2019.
+  Daniel Gerzhoy, <b>Xiaowu Sun</b>, Michael Zuzak, and Donald Yeung, \\
+  ACM Transactions on Architecture and Code Optimization (TACO), 2019.
 
 
 
