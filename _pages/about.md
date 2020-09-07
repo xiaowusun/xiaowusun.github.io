@@ -13,7 +13,9 @@ I moved to UC, Irvine from the [University of Maryland, College Park](https://ec
 
 Interests
 =====
-Robotics, Formal Methods, Machine Learning
+- Robotics
+- Formal Methods
+- Machine Learning
 
 Publications
 ======
