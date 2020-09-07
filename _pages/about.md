@@ -17,8 +17,8 @@ Robotics, Formal Methods, Machine Learning
 
 Publications
 ======
-\item [\textbf{Two-Level Lattice Neural Network Architectures for Control of Nonlinear Systems}](https://arxiv.org/abs/2004.09628) \\
-$\text{James Ferlez}^*$, $\textbf{Xiaowu Sun}^*$, and Yasser Shoukry, \\
+- [**Two-Level Lattice Neural Network Architectures for Control of Nonlinear Systems,**](https://arxiv.org/abs/2004.09628) \\
+James Ferlez, <b>Xiaowu Sun<b>, and Yasser Shoukry, \\
 IEEE Conference on Decision and Control (CDC), 2020.
 
 
