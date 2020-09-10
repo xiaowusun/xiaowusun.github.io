@@ -25,7 +25,7 @@ IEEE Conference on Decision and Control (CDC), 2020.
 
 - [**Formal Verification of Neural Network Controlled Autonomous Systems,**](https://dl.acm.org/doi/10.1145/3302504.3311802) 
 <br>
-<b>Xiaowu Sun</b>, Haitham Khder, and Yasser Shoukry, 
+<b>Xiaowu Sun</b>, Haitham Khedr, and Yasser Shoukry, 
 <br>
 ACM&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Hybrid&nbsp;Systems:&nbsp;Computation&nbsp;and&nbsp;Control&nbsp;(HSCC),&nbsp;2019. 
 
